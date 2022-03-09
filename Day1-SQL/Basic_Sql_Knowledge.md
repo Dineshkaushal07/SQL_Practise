@@ -15,3 +15,8 @@ SHOW TABLES
 ```
 SHOW TABLES LIKE '%string-to-be-matched%' 
 ```
+#Comments in SQL
+```
+-- For Single Line comment
+/* */ for multiline comments
+```
