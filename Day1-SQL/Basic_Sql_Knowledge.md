@@ -51,7 +51,7 @@ It is used when we need to group the columns, here same values has same group, w
 its mainly used when we have to use aggregate Functions.
 ```
 SELECT sum(ID) from students group by ID
-
+```
 #Complete Example 
 ```
 CREATE TABLE students (
