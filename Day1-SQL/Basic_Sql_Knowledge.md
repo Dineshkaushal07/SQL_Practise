@@ -11,6 +11,7 @@ USE database_name;
 SHOW TABLES
 ```
 #List tables on specific names
+<!--  After like we use wildcard operators so please read them to use them. -->
 ```
-SHOW TABLES LIKE '%string-to-be-matched%' <!--  After like we use wildcard operators so please read them to use them. -->
+SHOW TABLES LIKE '%string-to-be-matched%' 
 ```
